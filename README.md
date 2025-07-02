@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @adityarajendrashanbhag
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Aditya👋
 
-<!---
-adityarajendrashanbhag/adityarajendrashanbhag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I am a Aditya Rajendra Shanbhag
+
+---
+
+## Skills
+
+### Programming
+- Python
+- SQL
+- (add more...)
+
+### Tools and Libraries
+- Pandas, NumPy, Scikit-learn, TensorFlow
+- Streamlit, Power BI
+- (add more...)
+
+
+### Certifications
+- [Certification Name](link)
+- [Certification Name](link)
+- (add more...)
+
+---
+
+## Projects
+
+### Credit lol
+- **Description:** [Short description of the project]
+- **Repo:** [Link to the GitHub repository]
+
+(add more projects as needed...)
+
+---
+
+## Achievements
+- 🥇 First Position [Competition / Event]
+- 🥈 Second Position [Competition / Event]
+- (add more...)
+
+---
+
+## Contact
+- 📧 Email: [adityarajendrashanbhag@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/aditya-rajendra-shanbhag-5a3104198]
+---
