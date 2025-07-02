@@ -43,6 +43,6 @@ I am a Aditya Rajendra Shanbhag
 ---
 
 ## Contact
-- 📧 Email: [adityarajendrashanbhag@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/aditya-rajendra-shanbhag-5a3104198]
+- 📧 Email: adityarajendrashanbhag@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/aditya-rajendra-shanbhag-5a3104198
 ---
