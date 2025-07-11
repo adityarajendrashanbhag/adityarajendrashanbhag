@@ -8,13 +8,12 @@ Let’s connect and explore opportunities to create impactful solutions together
 ---
 
 ### Technical Skills
-**Languages and Frameworks:** Python, SQL, JSON, Flask, Git, Apache Airflow, AtScale, Google Cloud Platform  
-**Libraries:** NumPy, Pandas, PySpark, Matplotlib, Seaborn, Plotly, SQLAlchemy, Scikit-learn, TensorFlow, Streamlit, Power BI  
+**Languages and Frameworks:** Python, SQL, JSON, Flask, Git, Apache Airflow, AtScale
+**Libraries:** NumPy, Pandas, PySpark, Matplotlib, Seaborn, Plotly, SQLAlchemy, Power BI  
 **Databases & Query Languages:** MySQL, PostgreSQL, MS SQL Server, MongoDB, Google BigQuery  
-**Cloud Technologies:** Google Cloud Platform (Compute Engine, Cloud Storage); Microsoft Azure (Data Factory, Synapse Analytics)  
+**Cloud Technologies:** Google Cloud Platform (Compute Engine, Cloud Storage, Cloud Composer, Looker Studio) 
 **Project Management Tools:** JIRA, Confluence  
 **Tools & Technologies:** REST APIs (Postman), Jenkins, Docker, Tableau, Microsoft Office, Databricks, Apache Spark, Linux  
-**Soft Skills:** Communication, Team Collaboration, Time Management, Adaptability, Problem-Solving, Attention to Detail
 
 
 ### Certifications
