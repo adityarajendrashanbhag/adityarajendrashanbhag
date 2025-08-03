@@ -17,7 +17,7 @@ Let’s connect and explore opportunities to create impactful solutions together
 
 
 ### Certifications
-- [Certification Name](link)
+- [Foundations of Software Engineering and Data Management Learning](https://badgr.com/public/assertions/TQ1GyD-HTnOwLs_6ol5VNg?identity__email=shanbhag.ad@northeastern.edu&action=download)
 - [Certification Name](link)
 - (add more...)
 
