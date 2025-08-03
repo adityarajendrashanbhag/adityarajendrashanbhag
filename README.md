@@ -22,10 +22,10 @@ Let’s connect and explore opportunities to create impactful solutions together
 
 ## Projects
 
-### 1. Netflix Azure Data Engineering Project with Content Catalog dashboard
-**Description:** Built Azure Data Factory pipelines and Databricks workflows to transform Netflix data into Delta Lake tables and visualized content catalog insights using Power BI and Tableau. <br>
-**Technologies:**  Azure Data Factory, Data Lake, Databricks, Synapse Analytics, PowerBI, Tableau  <br>
-**Repo:** 👉 [**LINK**](https://github.com/adityarajendrashanbhag/Netfix-Azure-data-engineering-project-with-PowerBI-dashboard)
+### Netflix Azure Data Engineering Project with Content Catalog dashboard
+- **Description:** Built Azure Data Factory pipelines and Databricks workflows to transform Netflix data into Delta Lake tables and visualized content catalog insights using Power BI and Tableau. <br>
+- **Technologies:**  Azure Data Factory, Data Lake, Databricks, Synapse Analytics, PowerBI, Tableau  <br>
+- **Repo:** 👉 [**LINK**](https://github.com/adityarajendrashanbhag/Netfix-Azure-data-engineering-project-with-PowerBI-dashboard)
 
 ### 2. Keyword Co Occurrence Network Analysis of Generative AI Publications
 **Description:** Extracted and cleaned keywords from 2,500+ research papers, constructed weighted keyword networks using NetworkX and visualized top 5 generative AI research clusters. <br>
