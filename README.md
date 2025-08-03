@@ -7,7 +7,7 @@ Let’s connect and explore opportunities to create impactful solutions together
 
 ---
 
-### Technical Skills
+### Skills
 **Programming Languages:** Python, SQL, JSON, Git  
 **Frameworks & Orchestration:** Flask, Apache Airflow, AtScale  
 **Libraries:** NumPy, Pandas, PySpark, Matplotlib, Seaborn, Plotly, SQLAlchemy  
