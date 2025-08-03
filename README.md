@@ -18,23 +18,33 @@ Let’s connect and explore opportunities to create impactful solutions together
 **Tools & Other Technologies:** REST APIs, Jenkins, Docker, Linux, Microsoft Office  
 **Certifications:** Foundations of Software Engineering and Data Management Learning, Data Science for Engineers, R Programming
  
-
-
-### Certifications
-- [Foundations of Software Engineering and Data Management Learning](https://badgr.com/public/assertions/TQ1GyD-HTnOwLs_6ol5VNg?identity__email=shanbhag.ad@northeastern.edu&action=download)
-- [Certification Name](link)
-- (add more...)
-
 ---
 
 ## Projects
 
 ### 1. Netflix Azure Data Engineering Project with Content Catalog dashboard
 **Description:** Developed automated Azure Data Factory pipelines and Databricks workflows to ingest and transform Netflix source files into partitioned Delta Lake tables using Medallion architecture and designed an interactive Power BI and Tableau dashboard to visualize content catalog insights and viewing trends. <br>
+**Technologies:**    <br>
 **Repo:** 👉 [**LINK**](https://github.com/adityarajendrashanbhag/Netfix-Azure-data-engineering-project-with-PowerBI-dashboard)
 
 ### 2. Keyword Co Occurrence Network Analysis of Generative AI Publications
 **Description:** Extracted and preprocessed author keywords from 2,500+ Web of Science papers using pandas and custom tokenization, implemented quality checks to deliver a clean LLM ready metadata set for downstream analysis and developed weighted keyword co occurrence networks with NetworkX, applied centrality and community detection and visualized the top five generative AI research clusters annually. <br>
+**Technologies:**    <br>
+**Repo:** 👉 [**LINK**](https://github.com/adityarajendrashanbhag/keyword_co_occurance_network_analysis)
+
+### 3. Stress and Affect Detection Using Permutation Entropy and Complexity Analysis
+**Description:** Analyzed multimodal physiological and motion sensor data (including ECG, EDA, EMG, respiration, temperature, and accelerometer) collected from wearable devices (chest-worn RespiBAN) to detect and visualize distinct mental states (baseline, stress, amusement, meditation). Applied permutation entropy and complexity measures to generate scatter plots, clearly distinguishing between different emotional and stress states. <br>
+**Technologies:** Jupyter Notebook   <br>
+**Repo:** 👉 [**LINK**](https://github.com/adityarajendrashanbhag/stress_and_affect_detection)
+
+### 4. Patient Clustering Analysis Using K-Means and Hierarchical Methods
+**Description:** Applied clustering methods (K-Means and Hierarchical clustering) on patient demographics, lab test results, and vital signs from the MIMIC-III Clinical Database to uncover meaningful patient segments. Determined optimal cluster counts through the Elbow Method and Dendrogram visualization, evaluated clustering results, and identified key clinical patterns across patient groups. <br>
+**Technologies:**  Python, Pandas, Matplotlib, Scikit-learn, SciPy K-Means, Hierarchical clustering  <br>
+**Repo:** 👉 [**LINK**](https://github.com/adityarajendrashanbhag/keyword_co_occurance_network_analysis)
+
+### 5. The Home Depot Relational Database Management System
+**Description:** Designed and implemented a MySQL-based relational database system simulating The Home Depot's e-commerce operations. Developed data models and schemas, integrated automated data handling through triggers, stored procedures, user-defined functions (UDFs), and views. Enhanced efficiency in inventory management, order fulfillment, customer insights, and return management processes, ensuring scalable support for online retail operations.  <br>
+**Technologies:** MySQL  <br>
 **Repo:** 👉 [**LINK**](https://github.com/adityarajendrashanbhag/keyword_co_occurance_network_analysis)
 
 ---
