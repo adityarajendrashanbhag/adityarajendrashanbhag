@@ -1,7 +1,10 @@
 # Hi, I'm Aditya Rajendra Shanbhag👋
 
 ## About Me
-Hi, I’m Aditya Rajendra Shanbhag, a graduate student at Northeastern University pursuing Master’s in Data Analytics Engineering with a focus on Data Engineering and Business Intelligence Analytics.
+
+I’m a Data Engineer with nearly 3 years of experience specializing in ETL development, data modeling and BI analytics in the retail sector. At Merkle DGS, I designed end-to-end data pipelines, built real-time backend APIs and developed semantic data layers for BI systems. Skilled in Python, SQL, Apache Airflow, Jenkins, REST APIs and AtScale, I’m currently pursuing a Master's in Data Analytics Engineering at Northeastern University,focus on Data Engineering and Business Intelligence Analytics to automate and optimize data-driven workflows.
+
+I'm always open to collaborating on exciting projects or contributing to open-source initiatives.
 
 Let’s connect and explore opportunities to create impactful solutions together!
 
