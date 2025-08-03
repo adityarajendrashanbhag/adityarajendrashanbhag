@@ -40,12 +40,12 @@ Let’s connect and explore opportunities to create impactful solutions together
 ### 4. Patient Clustering Analysis Using K-Means and Hierarchical Methods
 **Description:** Applied clustering methods (K-Means and Hierarchical clustering) on patient demographics, lab test results, and vital signs from the MIMIC-III Clinical Database to uncover meaningful patient segments. Determined optimal cluster counts through the Elbow Method and Dendrogram visualization, evaluated clustering results, and identified key clinical patterns across patient groups. <br>
 **Technologies:**  Python, Pandas, Matplotlib, Scikit-learn, SciPy K-Means, Hierarchical clustering  <br>
-**Repo:** 👉 [**LINK**](https://github.com/adityarajendrashanbhag/keyword_co_occurance_network_analysis)
+**Repo:** 👉 [**LINK**](https://github.com/adityarajendrashanbhag/MIMIC3_cluster_analysis)
 
 ### 5. The Home Depot Relational Database Management System
 **Description:** Designed and implemented a MySQL-based relational database system simulating The Home Depot's e-commerce operations. Developed data models and schemas, integrated automated data handling through triggers, stored procedures, user-defined functions (UDFs), and views. Enhanced efficiency in inventory management, order fulfillment, customer insights, and return management processes, ensuring scalable support for online retail operations.  <br>
 **Technologies:** MySQL  <br>
-**Repo:** 👉 [**LINK**](https://github.com/adityarajendrashanbhag/keyword_co_occurance_network_analysis)
+**Repo:** 👉 [**LINK**](https://github.com/adityarajendrashanbhag/The_Home_Depot_RDBMS_Project)
 
 ---
 
