@@ -27,7 +27,8 @@ Let’s connect and explore opportunities to create impactful solutions together
 
 ### Netflix Azure Data Engineering Project with Content Catalog dashboard
 - **Description:** Developed automated Azure Data Factory pipelines and Databricks workflows to ingest and transform Netflix source files into partitioned Delta Lake tables using Medallion architecture and designed an interactive Power BI and Tableau dashboard to visualize content catalog insights and viewing trends.
-- **Repo:** [https://github.com/adityarajendrashanbhag/Netfix-Azure-data-engineering-project-with-PowerBI-dashboard]
+- **Repo:** 👉 [**LINK**](https://github.com/adityarajendrashanbhag/Netfix-Azure-data-engineering-project-with-PowerBI-dashboard) 👈
+
 
 
 ---
