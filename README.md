@@ -33,9 +33,9 @@ Let’s connect and explore opportunities to create impactful solutions together
 ---
 
 ## Achievements
-- Orange Handed Award: Recognized by the largest home improvement retailer client for leading the reverse migration of 80+ production ETL DAGs from Google App Engine and Airflow to Jenkins, significantly reducing cloud cost leakage.
-- Climb High Award: Awarded by Merkle for driving the reverse migration of 80+ production ETL DAGs and building the backend API for the Product Analytics application.
-- Hacktoberfest 2021: Contributed to open source project by getting 4 pull requests merged that fixed bugs in a frontend web project.
+- **Orange Handed Award**: Recognized by the largest home improvement retailer client for leading the reverse migration of 80+ production ETL DAGs from Google App Engine and Airflow to Jenkins, significantly reducing cloud cost leakage.
+- **Climb High Award**: Awarded by Merkle for driving the reverse migration of 80+ production ETL DAGs and building the backend API for the Product Analytics application.
+- **Hacktoberfest 2021**: Contributed to open source project by getting 4 pull requests merged that fixed bugs in a frontend web project.
 
 ---
 
